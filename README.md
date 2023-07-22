@@ -32,3 +32,18 @@ When segmenting customers based on RFM (Recency, Frequency, Monetary), we  can c
 
 #### References :
 * https://statso.io/rfm-analysis-case-study/
+
+#### Findings:
+* Query data
+![query csv file](https://github.com/PervejHosen/SQL-Project-RFM-/assets/117522848/2edc7da7-2032-48c0-a12e-e31f917eab58)
+
+* visual-1
+![visual-3](https://github.com/PervejHosen/SQL-Project-RFM-/assets/117522848/c622ab76-1add-43b7-bd6a-79099eee32a9)
+
+* visual-2
+![visual-2](https://github.com/PervejHosen/SQL-Project-RFM-/assets/117522848/adb36eb6-f805-4d4a-8beb-e055aff38c78)
+
+* visual-3
+![visual-1](https://github.com/PervejHosen/SQL-Project-RFM-/assets/117522848/8bacd41f-8838-46c4-8598-cfe4d353fa95)
+
+
