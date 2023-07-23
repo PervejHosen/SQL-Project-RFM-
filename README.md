@@ -1,4 +1,4 @@
-# SQL-RFM-Segmentation (Sales | Marketing | Retail | E-Commerce)
+## SQL-RFM-Segmentation (Sales | Marketing | Retail | E-Commerce)
 ## RFM Segmentation:
 RFM Analysis is used to understand and segment customers based on their buying behaviour. RFM stands for recency, frequency, and monetary value, which are three key metrics that provide information about customer engagement, loyalty, and value to a business. These segments enables targeted marketing and personalized strategies for each segment. 
 Using RFM Analysis, a business can assess customer's:
